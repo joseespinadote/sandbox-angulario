@@ -26,3 +26,15 @@ www-test/
 
 #old GWT (1.5) created this dir
 .gwt-tmp/
+
+
+system-config.js*
+app/**/*.js
+app/**/*.map
+node_modules
+jspm_packages
+bower_components
+aot/*
+dist/*
+yarn.lock
+
